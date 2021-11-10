@@ -1,0 +1,2 @@
+[options]
+module.name_mapper='^bundle-text:.*$' -> '<PROJECT_ROOT>/bundle-text.js'

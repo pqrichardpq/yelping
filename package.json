@@ -1,0 +1,21 @@
+{
+  "name": "yelping",
+  "version": "1.0.0",
+  "description": "reward for help",
+  "main": "index.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel-serve.sh",
+    "build": "parcel build"
+  },
+  "author": "pqrichardpq",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-inline-string": "^2.0.0",
+    "parcel": "^2.0.0",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.4.4"
+  },
+  "browserslist": "> 0.5%, last 2 versions, not dead"
+}

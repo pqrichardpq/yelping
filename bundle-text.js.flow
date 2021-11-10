@@ -1,0 +1,3 @@
+// @flow
+declare var value: string;
+export default value;
